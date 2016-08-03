@@ -3,7 +3,7 @@
 //David Ferry
 //August 3, 2016
 
-#include <unistd.h>
+#include <unistd.h> //for write()
 
 int main ( int argc, char* argv[] ){
 

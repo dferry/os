@@ -3,6 +3,8 @@
 //David Ferry
 //August 3, 2016
 
+#include <stdio.h> //For fprintf()
+
 int main( int argc, char* argv[] ){
 
 
